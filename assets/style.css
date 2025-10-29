@@ -1,0 +1,22 @@
+.st-emotion-cache-kt9vas {
+  padding: 1rem;
+  border-radius: 0.3rem;
+  background-color: rgba(148, 163, 184, 0.2);
+  color: white;
+}
+
+.diagnosis-benign {
+  width: 100%;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  background-color: rgba(52, 211, 153, 0.3);
+  color: rgba(52, 211, 153);
+}
+
+.diagnosis-malignant {
+  width: 100%;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  background-color: rgba(248, 113, 113, 0.2);
+  color: rgba(248, 113, 113);
+}
